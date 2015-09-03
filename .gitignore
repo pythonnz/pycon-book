@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# virtualenv folder:
+ve/
+
+# Build folder for sphinx:
+_build/
