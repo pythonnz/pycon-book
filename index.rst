@@ -11,6 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   intro.rst
+   requirements_expectations_and_deadlines.rst
+
 
 
 Indices and tables
